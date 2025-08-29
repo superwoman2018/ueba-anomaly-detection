@@ -1,6 +1,6 @@
 # UEBA Anomaly Detection
 
-## 📌 Project Overview
+ Project Overview
 This project is a **User and Entity Behavior Analytics (UEBA)** system built in Python.  
 It uses **machine learning (scikit-learn)** to learn patterns of normal user activity and then detect deviations (anomalies) that may indicate **insider threats or suspicious behavior**.  
 
@@ -8,7 +8,7 @@ The goal is to simulate a lightweight security analytics tool that helps reduce 
 
 ---
 
-## ⚙️ Tech Stack
+ Tech Stack
 - Python 3.8+
 - scikit-learn
 - pandas
@@ -17,7 +17,7 @@ The goal is to simulate a lightweight security analytics tool that helps reduce 
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 ```
 ueba-anomaly-detection/
  ├── src/               # Python scripts
@@ -34,7 +34,7 @@ ueba-anomaly-detection/
 
 ---
 
-## 🚀 How to Run
+ How to Run
 
 1. **Clone this repository**
    ```bash
@@ -54,7 +54,7 @@ ueba-anomaly-detection/
 
 ---
 
-## 📊 Expected Output
+ Expected Output
 - Trains on normal user activity logs.  
 - Identifies unusual behavior (anomalies) and flags them.  
 - Provides basic accuracy metrics and false-positive reduction techniques.  
@@ -69,7 +69,7 @@ Flagged anomalies saved in anomalies.csv
 
 ---
 
-## 🎯 Learning Outcomes
+Learning Outcomes
 By completing this project, you will:
 - Gain hands-on experience with **UEBA concepts**.  
 - Apply **machine learning for anomaly detection**.  
@@ -78,11 +78,11 @@ By completing this project, you will:
 
 ---
 
-## 👩‍💻 Author
+ Author
 Maimoona – Security Enthusiast | Exploring UEBA, AI, and Automation  
 
 ---
 
-## 📌 Next Steps
+ Next Steps
 - Extend detection with deep learning models.  
 - Add real-time log monitoring using Kafka or AWS Kinesis.  
